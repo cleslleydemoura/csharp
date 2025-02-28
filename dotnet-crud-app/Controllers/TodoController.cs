@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using dotnet_crud_app.Data;  // Certifique-se de usar o nome correto do seu projeto
-using dotnet_crud_app.Models; // Referência para o modelo Todo
+using dotnet_crud_app.Models;
+using Microsoft.AspNetCore.Authorization; // Referência para o modelo Todo
 
 [Route("todo")]
+[Authorize]
 public class TodoController : Controller
 {
     private readonly ApplicationDbContext _context;
