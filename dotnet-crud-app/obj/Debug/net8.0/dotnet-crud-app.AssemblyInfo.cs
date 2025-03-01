@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-crud-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be478a1cc4b2b3536ac95c4311e88d7de65ff523")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d57c3f842c8056fc0e4c24f52e9d7ce5baef15f")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-crud-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-crud-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
